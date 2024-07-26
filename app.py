@@ -1,2 +1,3 @@
-message = "Hello, ITF-Lab"
+"""Print Hello World"""
+message = "Hello World"
 print(message)
